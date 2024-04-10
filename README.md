@@ -1,4 +1,4 @@
-#Módulo 2: Introducción a lenguajes de programación R-Cran (paradigma de objetos)
+# Módulo 2: Introducción a lenguajes de programación R-Cran (paradigma de objetos)
 
 # Integrantes del Grupo
 
@@ -20,10 +20,10 @@
 - **Integrante 6**
   - Descripción: Daniela Mercado 12442.
 
-#Materia
+# Materia
 Técnicas y Herramientas Modernas 1
 
-#Docentes
+# Docentes
 Palma, Ricardo R.
 
 ricardo.rpalma@gmail.com
